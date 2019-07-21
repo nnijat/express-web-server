@@ -1,0 +1,23 @@
+{
+  "name": "express-web-server",
+  "version": "1.0.0",
+  "description": "Let's build a web server using the express framework. This is pretty much the same thing as the node-web-server, just using express. Do each part completely before starting the next part. You don't need to keep the code from the previous part or you can do each part in seperate files. This is not for a grade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnijat/express-web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnijat/express-web-server/issues"
+  },
+  "homepage": "https://github.com/nnijat/express-web-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "node-modules": "^1.0.1"
+  }
+}
